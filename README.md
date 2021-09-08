@@ -76,7 +76,13 @@ You can also use Double.POSITIVE(or negative)_INFINITY!
 
 
 ### Note:
-In the command prompt, you can use *JSHELL* to experiment with Java code;
+In the command prompt, you can use *JSHELL* to experiment with Java code.
+
+### To edit on my computer:
++ get code from GitHub using clone link under the code drop down.
++ change directory 
++ modify text
++ sent it back to GitHub
 
 
 # Some text editor testing...
