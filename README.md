@@ -1,5 +1,5 @@
-# Written notes from class
 # F21CP1
+## Written notes from class
 
 Sept. 8
 
@@ -40,14 +40,30 @@ File Editing tips:
 ##### even smaller
 ###### gray and smallest
 
-* adds bullet point
-* new bullet points on new lines
+* add bullet point
+- or like this
++ or even this
 
 *Italicizes words!*
 
 Regular words!
 
 _Also italicizes words!_
+
+**Bolds words.**
+
+Regular words!
+
+__Also bolds words.__
+
+If you are bolding or italicizing within a word, use asterisks rather than underscores due to formatting issues.
+
+> Block
+> Quote
+> 
+> If you want to make an apple pie from scratch, you must first create the universe.
+
+Make sure to add \> in empty lines too, and use \ to ignore formatting for symbols.
 
 To add java code, use ```java (code) ```.
 
