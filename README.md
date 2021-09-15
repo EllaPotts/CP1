@@ -79,7 +79,13 @@ You can also use Double.POSITIVE(or negative)_INFINITY!
 In the command prompt, you can use *JSHELL* to experiment with Java code.
 
 ### To edit on my computer:
-+ get code from GitHub using clone link under the code drop down.
++ get code from GitHub using clone link under the code drop down
++ open Windows Terminal
++ run git by typing "git"
++ type "ls" to list files in git
++ type "cd" and the name of your file
++ type "ls" again, it should show only your file
++ type "git clone" and then past the GitHub clone link
 + change directory 
 + modify text
 + sent it back to GitHub
